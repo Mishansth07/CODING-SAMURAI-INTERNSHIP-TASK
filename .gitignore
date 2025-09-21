@@ -1,0 +1,6 @@
+build/
+*.apk
+*.ipa
+*.so
+*.zip
+*.DS_Store
